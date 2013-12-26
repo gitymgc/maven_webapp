@@ -39,6 +39,7 @@ public class CountExecuter {
 		System.out.println("directory " + directory.getPath());
 		System.out.println();
 		
+		
 	}
 
 	private int countLines(File file) throws IOException {
