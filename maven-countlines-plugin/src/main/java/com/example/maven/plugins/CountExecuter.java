@@ -43,7 +43,6 @@ public class CountExecuter {
 		System.out.println("aaaaa");
 		System.out.println("bbbbbb");
 		System.out.println("cccccc");
-		System.out.println("dddd]");
 		
 	}
 
