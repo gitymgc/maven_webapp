@@ -49,6 +49,7 @@ public class CountExecuter {
 		System.out.println("1447");
 		System.out.println("1455");
 		System.out.println("1458");
+		System.out.println("1548");
 	}
 
 	private int countLines(File file) throws IOException {
