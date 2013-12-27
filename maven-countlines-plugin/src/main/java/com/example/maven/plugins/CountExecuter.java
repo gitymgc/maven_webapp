@@ -44,7 +44,6 @@ public class CountExecuter {
 		System.out.println("dddd");
 		System.out.println("eeee");
 		System.out.println("ffff");
-		System.out.println("gggg");
 		System.out.println("hhh");
 		System.out.println()
 	}
