@@ -49,7 +49,6 @@ public class CountExecuter {
 		System.out.println("iii");
 		System.out.println("jj");
 		System.out.println()
-		System.out.println("aaa");
 		
 	}
 
