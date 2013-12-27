@@ -41,8 +41,6 @@ public class CountExecuter {
 		System.out.println("develop");
 		System.out.println("test");
 		System.out.println("test");
-		System.out.println("test");
-		System.out.println("test");
 		
 		
 	}
