@@ -39,6 +39,7 @@ public class CountExecuter {
 		System.out.println("directory " + directory.getPath());
 		System.out.println();
 		System.out.println("develop");
+		System.out.println("test");
 		
 		
 	}
