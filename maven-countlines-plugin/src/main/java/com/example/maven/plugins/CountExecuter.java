@@ -53,10 +53,6 @@ public class CountExecuter {
 		System.out.println();
 		System.out.println();
 		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
 		System.out.println("aaa");
 		
 	}
