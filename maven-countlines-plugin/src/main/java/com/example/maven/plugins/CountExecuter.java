@@ -40,7 +40,6 @@ public class CountExecuter {
 		System.out.println();
 		System.out.println("develop");
 		System.out.println("test");
-		System.out.println("aaa");
 		System.out.println("bbb");
 	}
 
