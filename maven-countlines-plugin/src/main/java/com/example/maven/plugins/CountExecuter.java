@@ -51,7 +51,6 @@ public class CountExecuter {
 		System.out.println("1458");
 		System.out.println("1550");
 		System.out.println("1551");
-		System.out.println("1557");
 	}
 
 	private int countLines(File file) throws IOException {
